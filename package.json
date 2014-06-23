@@ -1,0 +1,18 @@
+{
+  "name": "TaxiDataHTML5",
+  "version": "0.0.1",
+  "description": "HTML 5 interface to view data from Taxi Data",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaegerpicker/TaxiDataHTML5.git"
+  },
+  "author": "Shawn Campbell <jaegerpicker@gmail.com>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/jaegerpicker/TaxiDataHTML5/issues"
+  }
+}
